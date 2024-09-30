@@ -83,4 +83,7 @@ By default, the React app will be running on http://localhost:3000
   #### python-dotenv: For managing environment variables.
 
 
-  
+### License
+#### This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
