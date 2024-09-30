@@ -13,3 +13,21 @@ This project is a full-stack application that generates creative writing prompts
 ## Project Structure
 
 /creative-writing-prompt-generator (root directory) ├── /creative-writing-prompt-generator (React app) │ ├── /src │ │ ├── App.js │ │ ├── index.js │ └── package.json ├── /backend (Flask app) │ ├── app.py │ ├── .env │ └── requirements.txt └── README.md
+
+---
+
+## Prerequisites
+
+Ensure you have the following installed on your system:
+- **Node.js** (for running the React frontend)
+- **Python 3.x** (for running the Flask backend)
+- **pip** (Python package manager)
+
+---
+
+## Setup
+
+### Backend Setup (Flask)
+1. Navigate to the `backend` folder:
+   ```bash
+   cd backend
