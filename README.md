@@ -63,24 +63,24 @@ cd writing-prompt-generator
    ```
 By default, the React app will be running on http://localhost:3000
 
-## Usage
+### Usage
 
 #### 1. Open the React app in your browser at http://localhost:3000.
 #### 2. Enter values for genre, theme, main character, and setting in the form.
-### 3. Click "Generate Prompt" to get a creative writing prompt based on your inputs.
-### 4. To clear the form, click the "Clear Form" button
+#### 3. Click "Generate Prompt" to get a creative writing prompt based on your inputs.
+#### 4. To clear the form, click the "Clear Form" button
 
-## Technologies Used
+### Technologies Used
 ### Frontend:
-  ### React: For building the user interface.
-  ### Material UI (MUI): For styling the components and making the UI responsive.
-  ### Axios: For making HTTP requests to the Flask backend.
+  #### React: For building the user interface.
+  #### Material UI (MUI): For styling the components and making the UI responsive.
+  #### Axios: For making HTTP requests to the Flask backend.
   
-## Backend:
-  ### Flask: For creating the API to serve the writing prompts.
-  ### Flask-CORS: For handling Cross-Origin Resource Sharing between the frontend and backend.
-  ### OpenAI: For generating creative writing prompts using the GPT-3.5 model.
-  ### python-dotenv: For managing environment variables.
+### Backend:
+  #### Flask: For creating the API to serve the writing prompts.
+  #### Flask-CORS: For handling Cross-Origin Resource Sharing between the frontend and backend.
+  #### OpenAI: For generating creative writing prompts using the GPT-3.5 model.
+  #### python-dotenv: For managing environment variables.
 
 
   
