@@ -63,10 +63,10 @@ cd writing-prompt-generator
    ```
 By default, the React app will be running on http://localhost:3000
 
-##Usage
+## Usage
 
-### 1. Open the React app in your browser at http://localhost:3000.
-### 2. Enter values for genre, theme, main character, and setting in the form.
+#### 1. Open the React app in your browser at http://localhost:3000.
+#### 2. Enter values for genre, theme, main character, and setting in the form.
 ### 3. Click "Generate Prompt" to get a creative writing prompt based on your inputs.
 ### 4. To clear the form, click the "Clear Form" button
 
