@@ -31,3 +31,8 @@ Ensure you have the following installed on your system:
 1. Navigate to the `backend` folder:
    ```bash
    cd backend
+
+###Install the required Python packages
+```bash
+pip install -r requirements.txt
+
