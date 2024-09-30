@@ -29,8 +29,8 @@ Ensure you have the following installed on your system:
 
 ### Backend Setup (Flask)
 1. Navigate to the `backend` folder:
-   ```bash
-   cd backend
+```bash
+cd backend
 
 ###Install the required Python packages
 ```bash
